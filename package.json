@@ -1,0 +1,19 @@
+{
+  "name": "the-dyom-journal",
+  "version": "1.0.0",
+  "description": "All articles of The DYOM Journal",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toriality/The-DYOM-Journal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Toriality/The-DYOM-Journal#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

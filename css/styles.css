@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24pt;
+}
+
+h1 {
+  font-size: 32pt;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  text-decoration: underline;
+  line-height: 100%;
+}
+
+h2 {
+  font-size: 28pt;
+  text-align: center;
+  line-height: 100%;
+  font-weight: normal;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 24pt;
+  margin-bottom: 20px;
+}
+
+p,
+li {
+  font-size: 20pt;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+p + h3,
+ol + h3 {
+  margin-top: 100px;
+}
+
+#content {
+  min-height: 100vh;
+  padding: 0 200px;
+}
+
+#title {
+  margin: 100px 0;
+}
+
+footer {
+  padding: 20px;
+  background-color: #ddd;
+  margin-top: 100px;
+  text-align: center;
+}
