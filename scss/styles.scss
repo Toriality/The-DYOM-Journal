@@ -12,6 +12,17 @@
   font-size: 24pt;
 }
 
+// Scrollbar
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-thumb {
+  background: yellow;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(yellow, 0.5);
+}
+
 h1 {
   font-size: 48pt;
   font-weight: bold;
