@@ -1,3 +1,6 @@
-<?php echo file_get_contents('header.html'); ?>
-<?php echo file_get_contents('body.html'); ?>
-<?php echo file_get_contents('footer.html'); ?>
+<?php
+    include 'header.php';
+    include 'body.php';
+    include 'footer.php';
+?>
+<?php include './php/connect.php'; ?>
