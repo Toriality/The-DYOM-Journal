@@ -1,6 +1,9 @@
 /* Variables */
 :root {
   --primary: yellow;
+  --text_title: white;
+  --text_primary: #444;
+  --text_secondary: #606060;
   --font_title: "Times New Roman", Times, serif;
   --font_content: "Courier New", Courier, monospace;
 }
@@ -8,7 +11,13 @@
 * {
   margin: 0;
   font-family: var(--font_title);
-  font-size: 24pt;
+  /*font-size: clamp(1rem, 10vw, 2rem);*/
+}
+
+@media only screen and (max-width: 768px) {
+  ol {
+    padding: 0 5px;
+  }
 }
 
 ::-webkit-scrollbar {
@@ -22,7 +31,7 @@
 }
 
 h1 {
-  font-size: 48pt;
+  font-size: clamp(1rem, 10vw, 3rem);
   font-weight: bold;
   font-family: var(--font_content);
   text-align: center;
@@ -31,7 +40,7 @@ h1 {
 }
 
 h2 {
-  font-size: 32pt;
+  font-size: clamp(1rem, 6vw, 2.8rem);
   text-align: center;
   line-height: 100%;
   font-weight: normal;
@@ -39,14 +48,16 @@ h2 {
 }
 
 h3 {
-  font-size: 25pt;
+  color: var(--text_primary);
+  font-size: clamp(10%, 6vw, 2rem);
   font-weight: bold;
   margin-bottom: 30px;
 }
 
 p,
 li {
-  font-size: 20pt;
+  color: var(--text_secondary);
+  font-size: clamp(8%, 5vw, 1.8rem);
   text-align: justify;
   margin-bottom: 20px;
 }
@@ -60,10 +71,16 @@ ol + h3 {
   position: relative;
   top: -32px;
   min-height: 100vh;
-  padding: 0 140px;
+  padding: 0 4rem;
   background-color: #fff;
-  margin: 0 200px;
+  margin: 0 clamp(10%, 10vw, 10rem);
   box-shadow: 0 -10px rgba(255, 250, 100, 0.8);
+}
+@media only screen and (max-width: 768px) {
+  #content {
+    margin: 0 0.8rem;
+    padding: 0 2rem;
+  }
 }
 
 #background {
