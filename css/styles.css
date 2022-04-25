@@ -4,13 +4,13 @@
   --text_title: white;
   --text_primary: #444;
   --text_secondary: #606060;
-  --font_title: "Times New Roman", Times, serif;
-  --font_content: "Courier New", Courier, monospace;
+  --font_content: "Times New Roman", Times, serif;
+  --font_title: "Courier New", Courier, monospace;
 }
 
 * {
   margin: 0;
-  font-family: var(--font_title);
+  font-family: var(--font_content);
   /*font-size: clamp(1rem, 10vw, 2rem);*/
 }
 
@@ -18,6 +18,29 @@
   ol {
     padding: 0 5px;
   }
+}
+
+nav {
+  padding: 1rem;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar-title {
+  font-family: var(--font_title);
+  font-size: 2rem;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  line-height: 100%;
+}
+
+.navbar-title:hover {
+  background-color: var(--primary);
+  padding: 0 10px;
 }
 
 ::-webkit-scrollbar {
@@ -33,7 +56,7 @@
 h1 {
   font-size: clamp(1rem, 10vw, 3rem);
   font-weight: bold;
-  font-family: var(--font_content);
+  font-family: var(--font_title);
   text-align: center;
   text-decoration: underline;
   line-height: 100%;
