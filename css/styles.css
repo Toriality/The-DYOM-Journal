@@ -78,7 +78,8 @@ h3 {
 }
 
 p,
-li {
+li,
+img {
   color: var(--text_secondary);
   font-size: clamp(8%, 5vw, 1.8rem);
   text-align: justify;
@@ -127,4 +128,8 @@ footer {
   background-color: #ddd;
   margin-top: 100px;
   text-align: center;
+}
+
+img {
+  max-width: 100%;
 }
