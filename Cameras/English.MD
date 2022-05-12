@@ -33,6 +33,8 @@ To produce a scene, we use the camera, and in it we have some techniques that ca
 
 Framing is when we position and insert personages and objects in a scene.
 
+!["OTS"](https://www.lascimmiapensa.com/wp-content/uploads/2018/12/il-cavaliere-oscuro.jpg)
+
 A common example is **"Over the Shoulder (OTS)"** framing, where, during a conversation, the camera is positioned behind an off-screen actor, while the camera focuses on the on-screen actor.
 
 !["Establishing shot"](https://nofilmschool.com/sites/default/files/styles/article_wide/public/bbcenterfinal.jpg?itok=PzzNFVfz)

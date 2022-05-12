@@ -33,6 +33,8 @@ Para produzirmos uma cena, utilizamos a câmera, e nela temos algumas técnicas 
 
 O framing é quando posicionamos e inserimos personagense e objetos em uma cena.
 
+!["OTS"](https://www.lascimmiapensa.com/wp-content/uploads/2018/12/il-cavaliere-oscuro.jpg)
+
 Um exemplo comúm é o framing "**Over the Shoulder (OTS)"**, em que, durante uma conversa, a câmera é posicionada atrás de um ator off-screem, enquanto a câmera foca no ator on-screen.
 
 !["Establishing shot"](https://nofilmschool.com/sites/default/files/styles/article_wide/public/bbcenterfinal.jpg?itok=PzzNFVfz)
