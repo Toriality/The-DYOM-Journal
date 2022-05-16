@@ -33,19 +33,25 @@ To produce a scene, we use the camera, and in it we have some techniques that ca
 
 Framing is when we position and insert personages and objects in a scene.
 
+#### Over the Shoulder (OTS)
+
 !["OTS"](https://www.lascimmiapensa.com/wp-content/uploads/2018/12/il-cavaliere-oscuro.jpg)
 
 A common example is **"Over the Shoulder (OTS)"** framing, where, during a conversation, the camera is positioned behind an off-screen actor, while the camera focuses on the on-screen actor.
+
+#### Establishing shot
 
 !["Establishing shot"](https://nofilmschool.com/sites/default/files/styles/article_wide/public/bbcenterfinal.jpg?itok=PzzNFVfz)
 
 The **"Establishing shot"**, usually used in the opening of a scene, which aims to show where the scene is located, and can also show the relationship between people and objects.
 
-There are other framing possibilities. This article covers very well all forms of framing.
+---
+
+There are other framing possibilities. [This article](https://www.studiobinder.com/blog/types-of-camera-shot-frames-in-film/) covers very well all forms of framing.
 
 Virtually all framing techniques are possible to recreate in DYOM, except one: the **Point of View (POV).**
 
-In many cases you will be able to recreate the POV, remember that we have the tool to position the camera in first person for both the actors and the player, but there is one specificity that is not possible to recreate in DYOM. Take a look at the following image:
+In many cases you will be able to recreate the POV, remember that we have the tool to position the camera in first person for both the actors and the player, but there is one specificity that is not possible to recreate in DYOM. **Take a look at the following image:**
 
 ![Binoculars](https://mobilemoviemaking.com/wp-content/uploads/2015/04/binoculars.jpg)
 
