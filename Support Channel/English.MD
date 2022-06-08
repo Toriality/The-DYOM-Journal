@@ -57,3 +57,49 @@ How can we change this?
 After analyzing the graph, a question arose. How could we solve this recurring problem that occurs during the installation of DYOM?
 
 My solution was: **an automated installer**.
+
+!["Installer"](https://i.imgur.com/iImE9EO.png)
+
+When using the DYOM Installer, the program automatically detects the directory of your GTA San Andreas and installs the necessary files to run the modification.
+
+The installer also has the option to install the most popular add-ons made by community members.
+
+### Features
+
+- Single .EXE file
+- Automatically detects your GTA San Andreas installation folder
+- Automatically installs the necessary DYOM files and dependencies
+- Automatically downgrades your EXE to 1.0v
+- Detects if your GTA is Steam version or not, making the necessary changes
+- Option to choose which addons you want to install
+
+### Add-Ons List
+
+- SIZZZ's Add-ons
+  - DYOM#
+  - Machine gun
+  - Darkness effect
+  - Working dynamites
+  - Road spikes
+  - Disable teleport health regeneration
+  - CCTV cameras
+  - Talking on phone animation
+  - Weapon shops
+- Axoez/Raxo's Add-ons
+  - Select time in milliseconds
+  - Skip phonecalls
+- Kumamon's Add-ons
+  - SAMP objects
+
+## Final considerations
+
+We know that it is very unusual for a modification to have an installer and we are often suspicious of .EXE files, however, the proposal to have an installer is not intended to replace manual installation. I believe that the ideal would be to have both options.
+
+The DYOM installer has its .EXE sent to Microsoft's malware analysis every time it is updated, to avoid false-positives from Antivirus and SmartScreen alert messages.
+
+If you have a suggestion or want to report a problem, feel free to do so. I will constantly be making improvements and updates to the software.
+
+Finally, thanks to RithRake24 and Andrej for embracing the idea and testing the software during development.
+
+[^install]: 10 THINGS THAT MAKE SOFTWARE USER-FRIENDLY. By: TECHREPUBLIC. In: https://www.techrepublic.com/article/10-things-that-make-software-user-friendly/. Accessed in: May 16, 2022.
+[^excel]: EXCEL SHEET FOR #SUPPORT CHANNEL ANALYSIS. By TORIALITY. In: (download).

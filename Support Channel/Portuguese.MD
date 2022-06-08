@@ -58,5 +58,48 @@ Após ter analisado o gráfico, um questionamento surgiu, como poderiamos soluci
 
 Minha solução foi: **um instalador automatizado**.
 
+!["Installer"](https://i.imgur.com/iImE9EO.png)
+
+Ao utilizar o DYOM Installer, o programa automaticamente detecta o diretório do seu GTA San Andreas e instala os arquivos necessários para rodar a modificação.
+
+O instalador também conta com a opção de instalar os mais populares add-ons feitos pelos membros da comunidade.
+
+### Features
+
+- Apenas um arquivo .EXE
+- Detecta automaticamente a sua pasta de instalação GTA San Andreas
+- Instala automaticamente os ficheiros e dependências necessárias do DYOM
+- Substitui automaticamente o seu EXE para 1.0v
+- Detecta se o seu GTA é versão Steam ou não, fazendo as alterações necessárias
+- Opção para escolher que addons deseja instalar
+
+### Lista de Add-Ons
+
+- SIZZZ's Add-ons
+  - DYOM#
+  - Machine gun
+  - Darkness effect
+  - Working dynamites
+  - Road spikes
+  - Disable teleport health regeneration
+  - CCTV cameras
+  - Talking on phone animation
+  - Weapon shops
+- Axoez/Raxo's Add-ons
+  - Select time in milliseconds
+  - Skip phonecalls
+- Kumamon's Add-ons
+  - SAMP objects
+
+## Considerações finais
+
+Sabemos que é muito incomum uma modificação ter um instalador e por muitas vezes suspeitamos de arquivos .EXE, porém, a proposta de termos um instalador não tem o intuito de subistituir a instalação manual. Acredito que o ideal seria termos ambas as opções.
+
+O instalador DYOM tem seu .EXE enviado à analise de malware da Microsoft a cada atualização que o mesmo recebe, para evitar falso-positivos de Antivirus e mensagens de alerta do SmartScreen.
+
+Caso você tenha uma sugestão ou queira reportar um problema, sinta-se livre para fazê-lo. Estarei constantemente fazendo melhorias e updates no software.
+
+Por fim, deixo meus agradecimentos ao RithRake24 e Andrej por terem abraçado a ideia e testado o software durante o seu desenvolvimento.
+
 [^install]: 10 THINGS THAT MAKE SOFTWARE USER-FRIENDLY. By: TECHREPUBLIC. In: https://www.techrepublic.com/article/10-things-that-make-software-user-friendly/. Accessed in: May 16, 2022.
 [^excel]: EXCEL SHEET FOR #SUPPORT CHANNEL ANALYSIS. By TORIALITY. In: (download).
