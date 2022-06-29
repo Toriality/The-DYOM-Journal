@@ -6,8 +6,7 @@ In this weekly journal, we will discuss the DYOM community, new events coverage,
 
 ## List of published articles
 
-1. [Cameras](Cameras/English.MD)
-2. [An Analysis of the #Support Channel](Support%20Channel/English.MD)
+**_None_**
 
 ## Credits
 
