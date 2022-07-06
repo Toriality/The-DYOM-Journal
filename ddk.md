@@ -1,6 +1,6 @@
 # The DYOM Journal
 
-![logo](https://i.imgur.com/1yS2jSe.png)
+![logo](https://i.imgur.com/QNExgZ0.png)
 
 ## The beginning
 
