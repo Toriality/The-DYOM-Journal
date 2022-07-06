@@ -10,7 +10,7 @@ On March 27, 2022, I had just finished making my first two pages for my Informat
 
 It was a cloudy day. It was quiet and a bit boring, just like every Sunday. I had reserved my whole afternoon to do the first pages of the thesis, but I finished it early, in only two hours, so I had the whole rest of the afternoon free.
 
-It was after buying a chocolate bar at the pharmacy that an idea came to me: "What if I wrote an article about camera positioning and posted it on the DYOM forum? This idea comes up most likely because I had watched several videos on cinematography last night.
+It was after buying a chocolate bar at the pharmacy that an idea came to me: "What if I wrote an article about camera positioning and posted it on the DYOM forum?" This idea comes up most likely because I had watched several videos on cinematography last night.
 
 And while I was writing and doing my research for the article, I came across DYOM IX version 3.1, one of my favorite since it added the Zoom feature and cutscene camera lens adjustment. I started writing about Darkmorgan's disappearance and the hiatus that DYOM IX development was on at the time, and then I thought, "OK, maybe I'm straying a bit from the main topic..."
 
@@ -30,7 +30,9 @@ At the moment, the most practical alternative I have is to write the articles in
 
 ## The content
 
-During all this time I didn't know exactly how the format and content of the articles would be, or better yet, even today I don't know very well. I can say that I have many articles already written, ready to be revised and then posted. It is uncertain, however, the main purpose of this journal, because sometimes it is an almost journalistic work with robust data and sources, sometimes it is a short article to interact with the community, or sometimes I write just to vent and say what comes to mind,
+During all this time I didn't know exactly how the format and content of the articles would be, or better yet, even today I don't know very well. I can say that I have many articles already written, ready to be revised and then posted. It is uncertain, however, the main purpose of this journal, because sometimes it is an almost journalistic work with robust data and sources, sometimes it is a short article to interact with the community, or sometimes I write just to vent and say what comes to mind.
+
+Well...
 
 Perhaps uncertainty and unpredictability is the essence of this journal.
 
@@ -40,4 +42,4 @@ Thank you very much for reading this far. I hope this project can bring a little
 
 This thread will always be open for article suggestions and also criticism and feedback on posted articles.
 
-So, what did you think of this article? What would you like to see next week?
+**So, what did you think of this article? What would you like to see next week?**

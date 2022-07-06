@@ -8,7 +8,7 @@ On March 27, 2022, I had just finished making my first two pages for my Informat
 
 It was a cloudy day. It was quiet and a bit boring, just like every Sunday. I had reserved my whole afternoon to do the first pages of the thesis, but I finished it early, in only two hours, so I had the whole rest of the afternoon free.
 
-It was after buying a chocolate bar at the pharmacy that an idea came to me: "What if I wrote an article about camera positioning and posted it on the DYOM forum? This idea comes up most likely because I had watched several videos on cinematography last night.
+It was after buying a chocolate bar at the pharmacy that an idea came to me: "What if I wrote an article about camera positioning and posted it on the DYOM forum?" This idea comes up most likely because I had watched several videos on cinematography last night.
 
 And while I was writing and doing my research for the article, I came across DYOM IX version 3.1, one of my favorite since it added the Zoom feature and cutscene camera lens adjustment. I started writing about Darkmorgan's disappearance and the hiatus that DYOM IX development was on at the time, and then I thought, "OK, maybe I'm straying a bit from the main topic..."
 
@@ -38,4 +38,4 @@ Thank you very much for reading this far. I hope this project can bring a little
 
 This thread will always be open for article suggestions and also criticism and feedback on posted articles.
 
-So, what did you think of this article? What would you like to see next week?
+**So, what did you think of this article? What would you like to see next week?**
